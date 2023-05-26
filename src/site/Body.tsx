@@ -1,9 +1,11 @@
 import React from 'react';
 
-export const Footer = () => {
+const Body = () => {
     return (
         <div>
-            Footer
+            Body
         </div>
     );
 };
+
+export default Body;
