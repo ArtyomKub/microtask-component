@@ -7,7 +7,7 @@ import Body from "./site/Body";
 function App() {
     return (
         <div>
-            <Header title={'NEW HEADER'}/>
+            <Header titleForHeader={'NEW HEADER'}/>
             <Body titleForBody={'NEW BODY'}/>
             <Footer titleForFooter={'NEW FOOTER'}/>
         </div>
